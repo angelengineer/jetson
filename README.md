@@ -1,6 +1,6 @@
 # Deep Learning Introduction: Samples
 
-These examples have been developed for the course "Deep Learning Introduction", taught by Francisco M. Castro. .
+These examples have been developed for the course "Deep Learning Introduction", taught by Francisco M. Castro.
 
 
 ## How to use
